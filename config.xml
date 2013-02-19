@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.navojoa.leytransitomty"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Ley de transito MTY</name>
+
+    <description>
+        Reglamento de transito de la ciudad de Monterrey, Mexico. 
+    </description>
+
+    <author href="https://www.navojoa.net/apps" email="apps@navojoa.net">
+        Hardeep Shoker 
+    </author>
+
+</widget>
